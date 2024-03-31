@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "position": "SDET",
+      "company": "mycompanyCOSTA1",
+      "location": "Vancouver",
+      "seniority": "Junior",
+      "link": "www.linkedin.com",
+      "description": "some text",
+      "time": "two hours ago",
+      "salary": "100k",
+      "date": "2020-06-06T12:00:00"
+    },
+
+    {
+        "position" : "JAVA DEVOPS",
+        "company" : "mycompanyCOSTA2",
+        "location" : "Vancouver",
+        "seniority" : "Senior",
+        "link" : "www.linkedin.com",
+        "description" : "some text",
+        "time" : "two hours ago",
+        "salary" : "100k",
+        "date" : "2020-06-06T12:00:00"
+        }
+  ]
+}
